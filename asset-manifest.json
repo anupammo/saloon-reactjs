@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/saloon-reactjs/static/css/main.9bc02248.chunk.css",
+    "main.js": "/github.io/saloon-reactjs/static/js/main.499fe792.chunk.js",
+    "main.js.map": "/github.io/saloon-reactjs/static/js/main.499fe792.chunk.js.map",
+    "runtime-main.js": "/github.io/saloon-reactjs/static/js/runtime-main.356e79bb.js",
+    "runtime-main.js.map": "/github.io/saloon-reactjs/static/js/runtime-main.356e79bb.js.map",
+    "static/js/2.924c9b41.chunk.js": "/github.io/saloon-reactjs/static/js/2.924c9b41.chunk.js",
+    "static/js/2.924c9b41.chunk.js.map": "/github.io/saloon-reactjs/static/js/2.924c9b41.chunk.js.map",
+    "index.html": "/github.io/saloon-reactjs/index.html",
+    "precache-manifest.224a8e5362e5ae9bb5b7efd0e20e3346.js": "/github.io/saloon-reactjs/precache-manifest.224a8e5362e5ae9bb5b7efd0e20e3346.js",
+    "service-worker.js": "/github.io/saloon-reactjs/service-worker.js",
+    "static/css/main.9bc02248.chunk.css.map": "/github.io/saloon-reactjs/static/css/main.9bc02248.chunk.css.map",
+    "static/js/2.924c9b41.chunk.js.LICENSE.txt": "/github.io/saloon-reactjs/static/js/2.924c9b41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.356e79bb.js",
+    "static/js/2.924c9b41.chunk.js",
+    "static/css/main.9bc02248.chunk.css",
+    "static/js/main.499fe792.chunk.js"
+  ]
+}
