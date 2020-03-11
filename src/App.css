@@ -1,0 +1,61 @@
+section {
+  margin-top: 80px;
+  margin-bottom: 35px;;
+}
+div.card {
+  margin-bottom: 25px;
+}
+#parallax {
+  /* The image used */
+  background-image: url("https://images.pexels.com/photos/6161/makeup-make-up-artist-make-up.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+  /* Set a specific height */
+  height: 300px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-slider {
+    height: 500px;
+}
+header#about {
+    background-image: url("https://images.pexels.com/photos/594421/pexels-photo-594421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    background-position: center;
+}
+#bg-gradient { 
+  background: linear-gradient(181deg, #246655, #11279f);
+  background-size: 400% 400%;
+  
+  -webkit-animation: AnimationName 10s ease infinite;
+  -moz-animation: AnimationName 10s ease infinite;
+  -o-animation: AnimationName 10s ease infinite;
+  animation: AnimationName 10s ease infinite;
+  
+  @-webkit-keyframes AnimationName {
+      0%{background-position:0% 90%}
+      50%{background-position:100% 11%}
+      100%{background-position:0% 90%}
+  }
+  @-moz-keyframes AnimationName {
+      0%{background-position:0% 90%}
+      50%{background-position:100% 11%}
+      100%{background-position:0% 90%}
+  }
+  @-o-keyframes AnimationName {
+      0%{background-position:0% 90%}
+      50%{background-position:100% 11%}
+      100%{background-position:0% 90%}
+  }
+  @keyframes AnimationName {
+      0%{background-position:0% 90%}
+      50%{background-position:100% 11%}
+      100%{background-position:0% 90%}
+  }
+}
+.ico-l {
+  font-size: 6em;
+}
